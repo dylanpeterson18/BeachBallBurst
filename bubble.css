@@ -1,0 +1,6 @@
+canvas{
+  border: 1px solid blue;
+  position: relative;
+  background-image: url("./lib/assets/ocean-wave-slide.png");
+  background-size: cover;
+}
