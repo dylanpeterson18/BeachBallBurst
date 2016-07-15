@@ -4,3 +4,14 @@ canvas{
   background-image: url("./lib/assets/ocean-wave-slide.png");
   background-size: cover;
 }
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction:column;
+}
+
+h1{
+  background-image: url("./lib/assets/logo.png")
+}
